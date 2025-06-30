@@ -125,7 +125,39 @@ const facultyData: Faculty[] = [
   designation: "Assistant Professor"
 },
 
+{
+  name: "Dr. Ashish Ranjan",
+  designation: "Asst. Prof.",
+  personalEmail: "-",
+  officialEmail: "ashish.ranjan@cgu-odisha.ac.in",
+  phone: ["+91 7261027290"],
+  department: "CSE"
+},
+{
+    name: "Anjana Mishra",
+    designation: "Asst. Prof.",
+    personalEmail: "anjanamishra21841@gmail.com",
+    officialEmail: "anjana.mishra@cgu-odisha.ac.in",
+    phone: ["+91 7682951028"],
+    department: "CSE"
+  },
+  {
+    name: "Dr. Madhusmita Sahu",
+    designation: "Asst. Prof. & HOD",
+    personalEmail: "madhusaina@gmail.com",
+    officialEmail: "msahu@cgu-odisha.ac.in",
+    phone: ["+91 9861131244"],
+    department: "CSE"
+  },
 
+{
+  name: "Dr. Dillip Rout",
+  designation: "Asst. Prof. (SG)",
+  personalEmail: "",
+  officialEmail: "dillip.rout@cgu-odisha.ac.in",
+  phone: ["9619589827"],
+  department: "CSE"
+},
 
 
 
@@ -154,7 +186,7 @@ const facultyData: Faculty[] = [
     designation: "Assistant Professor",
   },
   {
-    name: "DR. ROSALINA PRIYADARSHINI",
+    name: "DR. ROJALINA PRIYADARSHINI",
     personalEmail: "priyadarshini.rojalina@gmail.com",
     officialEmail: "rojalinapriyadarshini@cgu-odisha.ac.in",
     phone: ["9437937546"],
