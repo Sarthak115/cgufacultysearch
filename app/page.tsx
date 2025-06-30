@@ -34,6 +34,40 @@ const facultyData: Faculty[] = [
   department: "CSE",
   designation: ""
 },
+{
+  name: "Dr. Biji Nair",
+  personalEmail: "",
+  officialEmail: "biji.nair@cgu-odisha.ac.in",
+  phone: ["+91 9400430262"],
+  department: "CSE",
+  designation: ""
+},
+{
+  name: "Dr. Prabhat Dansena",
+  personalEmail: "",
+  officialEmail: "prabhat.dansena@cgu-odisha.ac.in",
+  phone: ["+91 9704491705"],
+  department: "",
+  designation: "Asst. Prof."
+},
+{
+  name: "Dr. Raj Vikram",
+  personalEmail: "",
+  officialEmail: "raj.vikram@cgu-odisha.ac.in",
+  phone: ["+91 8966009393"],
+  department: "",
+  designation: "Asst. Prof."
+},
+{
+  name: "Dr. Shubham Yadav",
+  personalEmail: "",
+  officialEmail: "subham.ydv@cgu-odisha.ac.in",
+  phone: ["+91 917917916"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+
+
 
   {
     name: "MANAS RANJAN MISHRA",
