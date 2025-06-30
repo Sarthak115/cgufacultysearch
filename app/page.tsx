@@ -67,7 +67,7 @@ const facultyData: Faculty[] = [
   designation: "Assistant Professor"
 },
 {
-  name: "Dr. Sumona De",
+  name: "Dr. Sumana  De",
   personalEmail: "",
   officialEmail: "sumana.de@cgu-odisha.ac.in",
   phone: ["+91 8967260810"],
