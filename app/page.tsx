@@ -66,6 +66,66 @@ const facultyData: Faculty[] = [
   department: "CSE",
   designation: "Assistant Professor"
 },
+{
+  name: "Dr. Sumona De",
+  personalEmail: "",
+  officialEmail: "sumana.de@cgu-odisha.ac.in",
+  phone: ["+91 8967260810"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+{
+  name: "Dr. Siba Mishra",
+  personalEmail: "",
+  officialEmail: "siba.mishra@cgu-odisha.ac.in",
+  phone: ["+91 9437160656"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+{
+  name: "Dr. Priya Mishra",
+  personalEmail: "",
+  officialEmail: "priya.mishra@cgu-odisha.ac.in",
+  phone: ["+91 8280252696"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+{
+  name: "Subrasmita Gouda",
+  personalEmail: "",
+  officialEmail: "subrasmita.gouda@cgu-odisha.ac.in",
+  phone: ["+91 9078766256"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+
+{
+  name: "Manaswini Nayak",
+  personalEmail: "",
+  officialEmail: "manaswini.nayak@cgu-odisha.ac.in",
+  phone: ["+91 9348812479"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+
+{
+  name: "Dr. Mamata Das",
+  personalEmail: "",
+  officialEmail: "mamata.das@cgu-odisha.ac.in",
+  phone: ["+91 8240169206"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+{
+  name: "Dr. Mamata Sahu",
+  personalEmail: "",
+  officialEmail: "mamata.sahu@cgu-odisha.ac.in",
+  phone: ["+91 9910057850"],
+  department: "CSE",
+  designation: "Assistant Professor"
+},
+
+
 
 
 
