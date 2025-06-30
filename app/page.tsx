@@ -1282,6 +1282,19 @@ const facultyData: Faculty[] = [
     department: "Pharmacy",
     designation: "Assistant Professor",
   },
+{
+  name: "Accounts Department",
+  designation: "-",
+  personalEmail: "-",
+  officialEmail: "accounts@cgu-odisha.ac.in",
+  phone: ["+91 9040272733", "+91 8456977122", "+91 8069072222"],
+  department: "Accounts"
+},
+
+
+
+
+
 ]
 
 export default function CVRamanFacultySearch() {
