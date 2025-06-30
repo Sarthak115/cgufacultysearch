@@ -27,6 +27,15 @@ const facultyData: Faculty[] = [
     designation: "Assistant Professor",
   },
   {
+  name: "Ganapati Panda",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["+91 9437048906"],
+  department: "CSE",
+  designation: ""
+},
+
+  {
     name: "MANAS RANJAN MISHRA",
     personalEmail: "manascvrce@gmail.com",
     officialEmail: "manascse@cgu-odisha.ac.in",
