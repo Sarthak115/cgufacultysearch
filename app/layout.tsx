@@ -14,7 +14,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>{children}
+        <a href="http://www.freevisitorcounters.com">more information</a>
+        <Script
+          strategy="afterInteractive"
+          src="https://www.freevisitorcounters.com/auth.php?id=40d2bbfacb14a0e25c25d1f0263a1bffa8bef199"
+        />
+        <Script
+          strategy="afterInteractive"
+          src="https://www.freevisitorcounters.com/en/home/counter/1358444/t/2"
+        />
+      </body>
     </html>
   )
 }
