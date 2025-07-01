@@ -1205,7 +1205,7 @@ const facultyData: Faculty[] = [
     personalEmail: "",
     officialEmail: "dsw@cgu-odisha.ac.in",
     phone: ["6371342540"],
-    department: "Student Welfare",
+    department: "DSW",
     designation: "Dean, Student Welfare",
   },
   {
