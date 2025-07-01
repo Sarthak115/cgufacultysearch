@@ -721,7 +721,7 @@ const facultyData: Faculty[] = [
     name: "MRUTYUNJAYA MOHAPATRA",
     personalEmail: "",
     officialEmail: "",
-    phone: [""],
+    phone: ["9861144654"],
     department: "Marine Engineering",
     designation: "Professor",
   },
@@ -729,7 +729,7 @@ const facultyData: Faculty[] = [
     name: "MR. SURESH KUMAR PATRA",
     personalEmail: "",
     officialEmail: "",
-    phone: [""],
+    phone: ["9437400864"],
     department: "Marine Engineering",
     designation: "Professor",
   },
@@ -873,6 +873,14 @@ const facultyData: Faculty[] = [
     department: "Chemistry",
     designation: "Assistant Professor",
   },
+{
+  name: "Dr. Debarpita Ghosal",
+  personalEmail: "ghosal.debarpita@gmail.com",
+  officialEmail: "ghosal.debarpita@cgu-odisha.ac.in",
+  phone: ["7205545986"],
+  department: "Chemistry",
+  designation: "Associate Professor",
+},
 
   // Mathematics Department
   {
@@ -1002,7 +1010,7 @@ const facultyData: Faculty[] = [
   officialEmail: "sachindrarout@cgu-odisha.ac.in",
   phone: ["8895815648"],
   department: "Mechanical",
-  designation: "Assistant Professor",
+  designation: "Associate Professor",
 },
 {
   name: "DR. SUNITA ROUTRAY",
@@ -1419,14 +1427,7 @@ const facultyData: Faculty[] = [
     department: "Humanities & Social Science",
     designation: "Assistant Professor",
   },
-  {
-    name: "DR. SASMITA JENA",
-    personalEmail: "sasmitajena@cgu-odisha.ac.in",
-    officialEmail: "sasmitajena@cgu-odisha.ac.in",
-    phone: ["9437874147"],
-    department: "Humanities & Social Science",
-    designation: "Assistant Professor",
-  },
+ 
   {
     name: "MS. SWARNALATA PATRA",
     personalEmail: "swarnalata.patra@cgu-odisha.ac.in",
@@ -1696,7 +1697,7 @@ const facultyData: Faculty[] = [
   department: "Accounts"
 },
 {
-  name: "Smita Parija",
+  name: "Dr Smita Parija",
   personalEmail: "",
   officialEmail: "",
   phone: ["+91 9438913032"],
@@ -1704,9 +1705,188 @@ const facultyData: Faculty[] = [
   designation: "Associate Professor",
 },
 
+{
+  name: "Dr. Mayaluri Zefree Lazarus",
+  personalEmail: "zefree.lazarus@gmail.com",
+  officialEmail: "zefree.lazarus@cgu-odisha.ac.in",
+  phone: ["6372599100"],
+  department: "Electrical Engineering",
+  designation: "Associate  Professor",
+},
+{
+  name: "Debasis Behera",
+  personalEmail: "debasis041@gmail.com",
+  officialEmail: "debasis041@cgu-odisha.ac.in",
+  phone: ["9178789515"],
+  department: "Electrical Engineering",
+  designation: "Assistant Professor",
+},
+{
+  name: "Ashutosh Patnaik",
+  personalEmail: "chintu.asutosh@gmail.com",
+  officialEmail: "apatnaik@cgu-odisha.ac.in",
+  phone: ["9937185034"],
+  department: "Electrical Engineering",
+  designation: "Assistant Professor",
+},
+{
+  name: "Dr. Aditi Chatterjee",
+  personalEmail: "aditichatterjee.ee@gmail.com",
+  officialEmail: "aditichatterjee@cgu-odisha.ac.in",
+  phone: ["9668575217"],
+  department: "Electrical Engineering",
+  designation: "Assistant Professor",
+},
+{
+  name: "Mr. Achirangshu Patra",
+  personalEmail: "",
+  officialEmail: "achirangshu.patra@cgu-odisha.ac.in",
+  phone: ["9734428543"],
+  department: "Electrical Engineering",
+  designation: "Assistant Professor",
+},
+{
+  name: "Mr. Rakesh Kumar Sahoo",
+  personalEmail: "sahoorakeshkumar66@gmail.com",
+  officialEmail: "",
+  phone: ["7008644502"],
+  department: "Electrical Engineering",
+  designation: "Assistant Professor",
+},
+{
+  name: "Dr. Kartik Chandra Patra",
+  personalEmail: "kacpatra47@gmail.com",
+  officialEmail: "kartik.chandra.patra@cgu-odisha.ac.in",
+  phone: ["9437087770", "8337900330"],
+  department: "Electrical Engineering",
+  designation: "Professor ",
+},
 
 
+  {
+    name: "Jagannath Dayal Pradhan",
+    personalEmail: "jagannath2464@gmail.com",
+    officialEmail: "jdpradhan@cgu-odisha.ac.in",
+    phone: ["7978707455"],
+    department: "Electrical Engineering",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Dr. Priyadarshi Kanungo",
+    personalEmail: "pkanungo@gmail.com",
+    officialEmail: "deanengineering@cgu-odisha.ac.in",
+    phone: ["7978531053"],
+    department: "Electrical Engineering",
+    designation: "Professor & Dean Engineering",
+  },
+  {
+    name: "Seli Mohapatra",
+    personalEmail: "selimohapatra@gmail.com",
+    officialEmail: "selimohapatra@cgu-odisha.ac.in",
+    phone: ["7978539911", "7381090990"],
+    department: "Electrical Engineering",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Soumya Mishra",
+    personalEmail: "soumyamishracvrce@gmail.com",
+    officialEmail: "soumya@cgu-odisha.ac.in",
+    phone: ["9337953858", "7381931100"],
+    department: "Electrical Engineering",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Tapaswini Pattnaik",
+    personalEmail: "tapaswini.n@gmail.com",
+    officialEmail: "tapaswini@cgu-odisha.ac.in",
+    phone: ["9937993267", "8144526776"],
+    department: "Electrical Engineering",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Anoop Kumar Pipersahaniyan",
+    personalEmail: "anoopgupta1786@gmail.com",
+    officialEmail: "akpiper@cgu-odisha.ac.in",
+    phone: ["8917215043"],
+    department: "Electrical Engineering",
+    designation: "Assistant Professor",
+  }
+{
+    name: "Dr. Kaushik Bhattacharyya",
+    personalEmail: "drkaushikb1@gmail.com",
+    officialEmail: "kaushik.b@cgu-odisha.ac.in",
+    phone: ["9800714248", "8900095742"],
+    department: "Electrical",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Dr. Debashis Panda",
+    personalEmail: "phy.dpanda@gmail.com",
+    officialEmail: "ece.dpanda@cgu-odisha.ac.in",
+    phone: ["8093991477"],
+    department: "Electrical",
+    designation: "Associate Professor",
+  },
+//mba
 
+
+  {
+    name: "Dr. Sasmita Mishra",
+    personalEmail: "sasmitamishra1981@gmail.com",
+    officialEmail: "sasmitamishra@cgu-odisha.ac.in",
+    phone: ["9861049181"],
+    department: "MBA",
+    designation: "Associate Professor",
+  },
+  {
+    name: "Dr. Swaroop Mohanty",
+    personalEmail: "swaruniv@gmail.com",
+    officialEmail: "swaroop@cgu-odisha.ac.in",
+    phone: ["9439331288"],
+    department: "MBA",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Dr. Laxmidhar Panda",
+    personalEmail: "pbapuni@gmail.com",
+    officialEmail: "laxmidhar.panda@cgu-odisha.ac.in",
+    phone: ["6350028826"],
+    department: "MBA",
+    designation: "Assistant Professor",
+  },
+  {
+    name: "Dr. Abuzar Nomani",
+    personalEmail: "abuzarnomani88@gmail.com",
+    officialEmail: "abuzar.nomani@cgu-odisha.ac.in",
+    phone: ["7417006481"],
+    department: "MBA",
+    designation: "Associate Professor",
+  }
+  //aic
+   {
+    name: "Ms. Sthita Prajna Moharana",
+    personalEmail: "",
+    officialEmail: "coo.aic@cgu-odisha.ac.in",
+    phone: ["8249340282"],
+    department: "AIC",
+    designation: "COO",
+  },
+  {
+    name: "Ms. Nirupama Tete",
+    personalEmail: "",
+    officialEmail: "nirupama.aic@cgu-odisha.ac.in",
+    phone: ["8144619497"],
+    department: "AIC",
+    designation: "Management Trainee",
+  },
+   {
+    name: "Mr. Abhijit Panigrahi",
+    personalEmail: "",
+    officialEmail: "abhijeet.aic@cgu-odisha.ac.in",
+    phone: ["7747823583"],
+    department: "AIC",
+    designation: "Management Trainee",
+  },
 
 ]
 
