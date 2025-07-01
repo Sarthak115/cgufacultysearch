@@ -15,7 +15,16 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>{children}
-        
+         {/* ✅ Visitor Counter Code */}
+        <a href="http://www.freevisitorcounters.com">more information</a>
+        <script
+          type="text/javascript"
+          src="https://www.freevisitorcounters.com/auth.php?id=40d2bbfacb14a0e25c25d1f0263a1bffa8bef199"
+        ></script>
+        <script
+          type="text/javascript"
+          src="https://www.freevisitorcounters.com/en/home/counter/1358444/t/2"
+        ></script>
       </body>
     </html>
   )
