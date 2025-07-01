@@ -162,7 +162,7 @@ const facultyData: Faculty[] = [
 
 {
   name: "Dr. Dillip Rout",
-  designation: "Asst. Prof. (SG)",
+  designation: "Associate Professor",
   personalEmail: "",
   officialEmail: "dillip.rout@cgu-odisha.ac.in",
   phone: ["9619589827"],
@@ -419,7 +419,7 @@ const facultyData: Faculty[] = [
   officialEmail: "kanhucharan.mohanty@cgu-odisha.ac.in",
   phone: ["8249972857"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "MS. SUCHITRA MOHANTY",
@@ -427,7 +427,7 @@ const facultyData: Faculty[] = [
   officialEmail: "suchitra.mohanty@cgu-odisha.ac.in",
   phone: ["9078065843"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "CHANDAN KUMAR PANDA",
@@ -435,7 +435,7 @@ const facultyData: Faculty[] = [
   officialEmail: "chandank.panda@cgu-odisha.ac.in",
   phone: ["7008922390"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "SUPRIYA PANIGRAHY",
@@ -443,7 +443,7 @@ const facultyData: Faculty[] = [
   officialEmail: "",
   phone: ["7978942992"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "MRUTYUNJAYA SATHUA",
@@ -451,7 +451,7 @@ const facultyData: Faculty[] = [
   officialEmail: "mrutyunjaya.sathua@cgu-odisha.ac.in",
   phone: ["7008228479"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "PRITI PRIYADARSANI PRADHAN",
@@ -459,7 +459,7 @@ const facultyData: Faculty[] = [
   officialEmail: "",
   phone: ["9668161448"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "SMITA RANI BISWAL",
@@ -467,7 +467,7 @@ const facultyData: Faculty[] = [
   officialEmail: "",
   phone: ["9337761675", "8327751233"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "SWETA SAHA",
@@ -475,7 +475,7 @@ const facultyData: Faculty[] = [
   officialEmail: "sweta.saha@cgu-odisha.ac.in",
   phone: ["8260828202"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "DR. YOGOMAYA MOHAPATRA",
@@ -491,7 +491,7 @@ const facultyData: Faculty[] = [
   officialEmail: "sushree.maheswari@cgu-odisha.ac.in",
   phone: ["8327712542"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "TAPASWINI PANDA",
@@ -499,7 +499,7 @@ const facultyData: Faculty[] = [
   officialEmail: "",
   phone: ["9938092266"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "JYOTI RANJAN SWAIN",
@@ -507,7 +507,7 @@ const facultyData: Faculty[] = [
   officialEmail: "jyotiranjan.swain@cgu-odisha.ac.in",
   phone: ["7978728970"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "ABHIPSA MAHALA",
@@ -515,7 +515,7 @@ const facultyData: Faculty[] = [
   officialEmail: "abhipsa.mahala@cgu-odisha.ac.in",
   phone: ["7381337607"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "BIJNAN BISWAL",
@@ -523,7 +523,7 @@ const facultyData: Faculty[] = [
   officialEmail: "bijnan.biswal@cgu-odisha.ac.in",
   phone: ["9777239295"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 {
   name: "MS. JAYANTI ROUT",
@@ -531,7 +531,7 @@ const facultyData: Faculty[] = [
   officialEmail: "jayanti.rout@cgu-odisha.ac.in",
   phone: ["8117883149"],
   department: "Computer Science",
-  designation: "Teaching Assistant",
+  designation: "Assistant Professor",
 },
 
 
@@ -650,6 +650,15 @@ const facultyData: Faculty[] = [
     department: "Electrical Engineering",
     designation: "Professor & Director",
   },
+  {
+  name: "DR. MADHUSUDAN MAITI",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["9475301132"],
+  department: "Electrical",
+  designation: "Associate Professor",
+},
+
   {
     name: "PRIYANKA SEN",
     personalEmail: "psen466@gmail.com",
@@ -954,6 +963,119 @@ const facultyData: Faculty[] = [
     department: "Mathematics",
     designation: "Assistant Professor",
   },
+//mechanical
+{
+  name: "DR. HILLOL JOARDAR",
+  personalEmail: "joardar.2011@gmail.com",
+  officialEmail: "jhillol@cgu-odisha.ac.in",
+  phone: ["7008687893"],
+  department: "Mechanical",
+  designation: "Associate Professor",
+},
+{
+  name: "MANOJ KUMAR NAYAK",
+  personalEmail: "manoj.nayak14679@gmail.com",
+  officialEmail: "manoj.kumar.nayak@cgu-odisha.ac.in",
+  phone: ["9040930339"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. MANOJ KUMAR PARIDA",
+  personalEmail: "manojparida337@gmail.com",
+  officialEmail: "manojparida@cgu-odisha.ac.in",
+  phone: ["9337424436"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. NITAI SUNDAR DAS",
+  personalEmail: "ns_das2000@yahoo.co.in",
+  officialEmail: "nsdas@cgu-odisha.ac.in",
+  phone: ["9437390536"],
+  department: "Mechanical",
+  designation: "Professor",
+},
+{
+  name: "DR. SACHINDRA KUMAR ROUT",
+  personalEmail: "sachindra106@gmail.com",
+  officialEmail: "sachindrarout@cgu-odisha.ac.in",
+  phone: ["8895815648"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. SUNITA ROUTRAY",
+  personalEmail: "sunitaroutray77@gmail.com",
+  officialEmail: "sroutray1@cgu-odisha.ac.in",
+  phone: ["8895389315"],
+  department: "Mechanical",
+  designation: "Associate Professor",
+},
+{
+  name: "PANKAJ KUMAR",
+  personalEmail: "pankaj.mit.mech@gmail.com",
+  officialEmail: "pkumar@cgu-odisha.ac.in",
+  phone: ["8083476212"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. SUSHOVAN BASAK",
+  personalEmail: "sushovanbasak@gmail.com",
+  officialEmail: "s.basak@cgu-odisha.ac.in",
+  phone: ["9433345626"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "MADHU KALYAN REDDY PULAGAM",
+  personalEmail: "pmadhukalyan@gmail.com",
+  officialEmail: "pmkreddy@cgu-odisha.ac.in",
+  phone: ["8500515185"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. BIKASH CHANDRA BEHERA",
+  personalEmail: "bikashchbehera@cgu-odisha.ac.in",
+  officialEmail: "bikashchbehera@cgu-odisha.ac.in",
+  phone: ["9716198279"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. PRASANT KUMAR SWAIN",
+  personalEmail: "prasant270910@gmail.com",
+  officialEmail: "",
+  phone: ["8260006213", "8895502091"],
+  department: "Aerospace Engineering",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. SHAIK MOZAMMIL",
+  personalEmail: "",
+  officialEmail: "shaik.mozammil@cgu-odisha.ac.in",
+  phone: ["9557987014"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. RAKESH RANJAN CHAND",
+  personalEmail: "",
+  officialEmail: "rakeshranjan.chand@cgu-odisha.ac.in",
+  phone: ["9439916314"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
+{
+  name: "DR. PRAVAJYOTI PATRA",
+  personalEmail: "",
+  officialEmail: "pravajyoti.patra@cgu-odisha.ac.in",
+  phone: ["8339850706"],
+  department: "Mechanical",
+  designation: "Assistant Professor",
+},
 
   // Higher Officials - Updated with real data
   {
