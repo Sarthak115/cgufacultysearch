@@ -1810,7 +1810,7 @@ const facultyData: Faculty[] = [
     phone: ["8917215043"],
     department: "Electrical Engineering",
     designation: "Assistant Professor",
-  }
+  },
 {
     name: "Dr. Kaushik Bhattacharyya",
     personalEmail: "drkaushikb1@gmail.com",
@@ -1861,7 +1861,7 @@ const facultyData: Faculty[] = [
     phone: ["7417006481"],
     department: "MBA",
     designation: "Associate Professor",
-  }
+  },
   //aic
    {
     name: "Ms. Sthita Prajna Moharana",
