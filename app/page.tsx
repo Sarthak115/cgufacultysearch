@@ -1881,7 +1881,7 @@ export default function CVRamanFacultySearch() {
 <div className="mt-1 text-sm text-gray-500">
   <span>Visitors: </span>
   <img
-    src="https://www.freevisitorcounters.com/en/home/counter/1358444/t/2"
+    src="https://www.freevisitorcounters.com/en/home/counter/1358460/t/11"
     alt="Visitor Counter"
     className="inline h-5"
   />
