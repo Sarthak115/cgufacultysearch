@@ -1811,7 +1811,7 @@ const facultyData: Faculty[] = [
     department: "Electrical Engineering",
     designation: "Assistant Professor",
   },
-{
+ {
     name: "Dr. Kaushik Bhattacharyya",
     personalEmail: "drkaushikb1@gmail.com",
     officialEmail: "kaushik.b@cgu-odisha.ac.in",
