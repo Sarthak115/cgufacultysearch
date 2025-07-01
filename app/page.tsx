@@ -1732,6 +1732,9 @@ export default function CVRamanFacultySearch() {
         if (searchTerm.includes("hod")) {
           return designation.includes("head of department")
         }
+        if (searchTerm.includes("dsw")) {
+          return designation.includes("Dean, Student Welfare")
+        }
 
         // Dean + department combinations
         if (searchTerm.includes("dean") && searchTerm.includes("engineering")) {
