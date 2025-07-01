@@ -1881,10 +1881,18 @@ export default function CVRamanFacultySearch() {
 <div className="mt-1 text-sm text-gray-500">
   <span>Visitors: </span>
   <img
-    src="https://www.freevisitorcounters.com/en/home/counter/1358460/t/11"
+    src="https://www.freevisitorcounters.com/en/home/counter/1358463/t/11"
     alt="Visitor Counter"
     className="inline h-5"
   />
+  <a
+    href="http://www.freevisitorcounters.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="ml-2 underline text-blue-500"
+  >
+    more information
+  </a>
 </div>
               </div>
             </div>
