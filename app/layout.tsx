@@ -14,6 +14,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <Head>
+        <title> CGU faculty search </title>
+        <meta name="description" content="Explore a comprehensive directory of faculty members at C.V. Raman Global University. Easily find department-wise contact details, email addresses, and designations to connect with professors and teaching staff—built to make academic communication faster and smoother for students." />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+      </Head>
       <body>{children}
          {/* ✅ Visitor Counter Code */}
         <a href="http://www.freevisitorcounters.com">more information</a>
