@@ -1201,7 +1201,7 @@ const facultyData: Faculty[] = [
     designation: "Dean, International",
   },
   {
-    name: "DR. RUDRA NARAYAN MOHAPATRA",
+    name: "DR. RUDRA NARAYAN MOHAPATRA DSW ",
     personalEmail: "",
     officialEmail: "dsw@cgu-odisha.ac.in",
     phone: ["6371342540"],
@@ -1887,6 +1887,22 @@ const facultyData: Faculty[] = [
     department: "AIC",
     designation: "Management Trainee",
   },
+  {
+  name: "DSW",
+  personalEmail: "",
+  officialEmail: "dsw@cgu-odisha.ac.in",
+  phone: ["+91 9040097243"],
+  department: "DSW",
+  designation: ""
+},
+{
+  name: "DSW office",
+  personalEmail: "",
+  officialEmail: "dsw@cgu-odisha.ac.in",
+  phone: ["+91 8249282820"],
+  department: "DSW",
+  designation: ""
+},
 
 ]
 
