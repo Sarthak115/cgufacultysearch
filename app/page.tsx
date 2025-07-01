@@ -1695,6 +1695,14 @@ const facultyData: Faculty[] = [
   phone: ["+91 9040272733", "+91 8456977122", "+91 8069072222"],
   department: "Accounts"
 },
+{
+  name: "Smita Parija",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["+91 9438913032"],
+  department: "ECE",
+  designation: "Associate Professor",
+},
 
 
 
