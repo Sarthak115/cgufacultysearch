@@ -62,7 +62,7 @@ const facultyData: Faculty[] = [
   name: "Dr. Shubham Yadav",
   personalEmail: "",
   officialEmail: "subham.ydv@cgu-odisha.ac.in",
-  phone: ["+91 917917916"],
+  phone: ["+91 9179197916"],
   department: "CSE",
   designation: "Assistant Professor"
 },
