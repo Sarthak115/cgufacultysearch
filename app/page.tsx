@@ -27,7 +27,7 @@ const facultyData: Faculty[] = [
     designation: "Assistant Professor",
   },
   {
-  name: "Ganapati Panda",
+  name: "Dr. Ganapati Panda",
   personalEmail: "",
   officialEmail: "",
   phone: ["+91 9437048906"],
