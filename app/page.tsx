@@ -34,7 +34,7 @@ const facultyData: Faculty[] = [
   phone: ["9040930327"],
   department: "Training and Placement(TPO)",
   designation: "Head, T&P Cell"
-}
+},
   {
     name: "MAMATARANI DAS",
     personalEmail: "mamataparida2005@gmail.com",
