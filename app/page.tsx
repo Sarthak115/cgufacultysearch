@@ -19,6 +19,23 @@ interface Faculty {
 const facultyData: Faculty[] = [
   // Computer Science Department
   {
+  name: " Mrs Sunita",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["8249199797"],
+  department: "Training and Placement (TPO)",
+  designation: ""
+ },
+
+ {
+  name: "Debesh Dutta",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["9040930327"],
+  department: "Training and Placement(TPO)",
+  designation: "Head, T&P Cell"
+}
+  {
     name: "MAMATARANI DAS",
     personalEmail: "mamataparida2005@gmail.com",
     officialEmail: "mamatadas@cgu-odisha.ac.in",
