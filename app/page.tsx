@@ -18,10 +18,20 @@ interface Faculty {
 
 const facultyData: Faculty[] = [
   // Computer Science Department
+
   {
-  name: " Mrs Sunita",
+  name: "Swadhin Kumar Nayak",
   personalEmail: "",
-  officialEmail: "",
+  officialEmail: "swadhin.nayak@cgu-odisha.ac.in",
+  phone: ["9437404010"],
+  department: "Web Admin & Digital Media",
+  designation: "Web Administrator"
+},
+
+  {
+  name: "Sunita",
+  personalEmail: "",
+  officialEmail: "placement@cgu-odisha.ac.in",
   phone: ["8249199797"],
   department: "Training and Placement (TPO)",
   designation: ""
@@ -29,11 +39,11 @@ const facultyData: Faculty[] = [
 
  {
   name: "Debesh Dutta",
-  personalEmail: "",
-  officialEmail: "",
+  personalEmail: "debesh.dutta@cgu-odisha.ac.in",
+  officialEmail: "placement@cgu-odisha.ac.in",
   phone: ["9040930327"],
   department: "Training and Placement(TPO)",
-  designation: "Head, T&P Cell"
+  designation: "Dy Head, T&P Cell"
 },
   {
     name: "MAMATARANI DAS",
