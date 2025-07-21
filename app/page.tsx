@@ -49,7 +49,7 @@ const facultyData: Faculty[] = [
   name: "Biswabhusan Thanapati",
   personalEmail: "",
   officialEmail: "",
-  phone: ["978004240"],
+  phone: ["7978004240"],
   department: "Computer Science",
   designation: "",
 },
