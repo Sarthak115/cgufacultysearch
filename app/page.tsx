@@ -53,7 +53,14 @@ const facultyData: Faculty[] = [
   department: "Computer Science",
   designation: "",
 },
-
+{
+  name: "Ms Priya Rao",
+  personalEmail: "",
+  officialEmail: "priya.rao@cgu-odisha.ac.in",
+  phone: ["7063635776"],
+  department: "Computer Science",
+  designation: "Assistant Professor", // assumed, update if different
+},
 
   {
     name: "MAMATARANI DAS",
