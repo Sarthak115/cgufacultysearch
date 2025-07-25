@@ -54,6 +54,15 @@ const facultyData: Faculty[] = [
   designation: "",
 },
 {
+  name: "Prakash Chandra Sahu",
+  personalEmail: "",
+  officialEmail: "prakash.sahu@cgu-odisha.ac.in",
+  phone: ["6372174933"],
+  department: "Computer Science", // assumed, update if different
+  designation: "Assistant Professor", // assumed, update if different
+},
+
+{
   name: "Ms Priya Rao",
   personalEmail: "",
   officialEmail: "priya.rao@cgu-odisha.ac.in",
