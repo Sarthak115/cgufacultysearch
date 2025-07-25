@@ -61,6 +61,7 @@ const facultyData: Faculty[] = [
   department: "Computer Science", // assumed, update if different
   designation: "Assistant Professor", // assumed, update if different
 },
+//admission cell
 {
   name: "Kamlesh Admission",
   personalEmail: "",
