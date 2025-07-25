@@ -61,6 +61,22 @@ const facultyData: Faculty[] = [
   department: "Computer Science", // assumed, update if different
   designation: "Assistant Professor", // assumed, update if different
 },
+{
+  name: "Kamlesh Admission",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["9040021102"],
+  department: "Admission Cell",
+  designation: "Admission", // or "Admission Executive" if you have the exact title
+},
+{
+  name: "Admission Cell",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["9040021100","6746636555"],
+  department: "Admission Cell",
+  designation: "Admission", // or "Admission Executive" if you have the exact title
+},
 
 {
   name: "Ms Priya Rao",
