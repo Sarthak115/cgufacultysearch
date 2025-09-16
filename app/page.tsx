@@ -1042,6 +1042,20 @@ const facultyData: Faculty[] = [
     department: "Mathematics",
     designation: "Assistant Professor",
   },
+
+{
+  name: "Dr. Mosarof Sarkar",
+  personalEmail: "",
+  officialEmail: "mosarof.sarkar@cgu-odisha.ac.in",
+  phone: ["7501765396"],
+  department: "Mathematics",
+  designation: "Assistant Professor",
+},
+
+
+
+
+
 //mechanical
 {
   name: "DR. HILLOL JOARDAR",
