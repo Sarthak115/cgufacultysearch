@@ -28,6 +28,20 @@ const facultyData: Faculty[] = [
   designation: "Web Administrator"
 },
 
+//hostel
+{
+  name: "Mihir Ranjan Jena",
+  personalEmail: "",
+  officialEmail: "",
+  phone: ["8018726984"],
+  department: "Hostel",
+  designation: "Staff",
+},
+
+
+
+
+
   {
   name: "Sunita",
   personalEmail: "",
@@ -2398,7 +2412,7 @@ export default function CVRamanFacultySearch() {
               <h3 className="text-2xl font-bold">CGU Faculty Search</h3>
             </div>
             <p className="text-purple-200 mb-2">Faculty Directory Portal</p>
-            <p className="text-sm text-purple-300">© 2024 CGU Faculty Search. All rights reserved.</p>
+            <p className="text-sm text-purple-300">© 2025 CGU Faculty Search. All rights reserved.</p>
             <div className="flex items-center justify-center gap-2 mt-4 text-sm text-purple-300">
               <MapPin className="h-4 w-4" />
               <span>Bhubaneswar, Odisha, India</span>
