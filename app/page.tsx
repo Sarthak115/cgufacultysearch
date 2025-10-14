@@ -28,7 +28,7 @@ const facultyData: Faculty[] = [
   designation: "Web Administrator"
 },
 
-//hostel
+//hostel management
 {
   name: "Mihir Ranjan Jena",
   personalEmail: "",
@@ -94,7 +94,7 @@ const facultyData: Faculty[] = [
 },
 
 {
-  name: "Ms Priya Rao",
+  name: "Priya Rao",
   personalEmail: "",
   officialEmail: "priya.rao@cgu-odisha.ac.in",
   phone: ["7063635776"],
