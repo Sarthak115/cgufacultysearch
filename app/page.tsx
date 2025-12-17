@@ -93,6 +93,8 @@ const facultyData: Faculty[] = [
   designation: "Admission", // or "Admission Executive" if you have the exact title
 },
 
+
+
 {
   name: "Priya Rao",
   personalEmail: "",
@@ -140,14 +142,22 @@ const facultyData: Faculty[] = [
   officialEmail: "raj.vikram@cgu-odisha.ac.in",
   phone: ["+91 8966009393"],
   department: "",
-  designation: "Asst. Prof."
+  designation: "Ast. Prof."
+},
+{
+  name: "Dr.Binita Kumari",
+  personalEmail: "",
+  officialEmail: "binita.kumari@cgu-odisha.ac.in",
+  phone: ["+91 7903927005"],
+  department: "CSE",
+  designation: ""
 },
 {
   name: "Dr. Shubham Yadav",
   personalEmail: "",
-  officialEmail: "subham.ydv@cgu-odisha.ac.in",
-  phone: ["+91 9179197916"],
-  department: "CSE",
+  officialEmail: "subham.ydv@cgu7903927005.in",
+  phone: ["+91 91C79197916"],
+  department:"CSE",
   designation: "Assistant Professor"
 },
 {
