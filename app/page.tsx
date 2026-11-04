@@ -128,6 +128,20 @@ const facultyData: Faculty[] = [
   department: "CSE",
   designation: ""
 },
+
+
+
+{
+  name: "Ms. Kajal Tiwari",
+  personalEmail: "",
+  officialEmail: "kajal.tiwari@cgu-odisha.ac.in",
+  phone: ["+91 9977911720"],
+  department: "CSE",
+  designation: ""
+},
+
+
+
 {
   name: "Dr. Prabhat Dansena",
   personalEmail: "",
