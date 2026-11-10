@@ -1,9 +1,9 @@
 "use client"
 
 import { useCallback, useEffect, useMemo, useState } from "react"
-import { ArrowLeft, GraduationCap, MapPin, SearchX, UserPlus, X } from "lucide-react"
+import { ArrowLeft, GraduationCap, Linkedin, Mail, MapPin, SearchX, UserPlus, X } from "lucide-react"
 import { Toaster } from "@/components/ui/sonner"
-import { FEEDBACK_FORM } from "@/lib/config"
+import { FEEDBACK_FORM, OWNER } from "@/lib/config"
 import type { DirectoryEntry } from "@/lib/data/schema"
 import { departmentCounts, leadership, matchesRank, offices, type RankFilter } from "@/lib/directory"
 import { buildIndex, search, suggest, type DeptInfo } from "@/lib/search"
@@ -318,7 +318,23 @@ export default function FacultySearch({
             <GraduationCap className="h-5 w-5 text-primary" aria-hidden /> CGU Faculty Search
           </p>
           <p className="text-sm">
-            Made with <span aria-label="love" className="text-red-500">♥</span> by <strong>Sarthak</strong>
+            Made by <strong>{OWNER.name}</strong>
+          </p>
+          <p className="flex flex-wrap items-center justify-center gap-x-5 gap-y-2 text-sm">
+            <a
+              href={OWNER.linkedin}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1.5 font-semibold text-primary hover:underline"
+            >
+              <Linkedin className="h-4 w-4" aria-hidden /> Find me on LinkedIn
+            </a>
+            <a
+              href={`mailto:${OWNER.email}`}
+              className="inline-flex items-center gap-1.5 font-semibold text-primary hover:underline"
+            >
+              <Mail className="h-4 w-4" aria-hidden /> {OWNER.email}
+            </a>
           </p>
           <p className="mx-auto max-w-2xl text-xs leading-relaxed text-muted-foreground">
             Contacts are collected from public university documents (official timetables and cgu-odisha.ac.in) to help

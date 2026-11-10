@@ -12,5 +12,12 @@ export const FEEDBACK_FORM = {
 
 export const UNIVERSITY = "C. V. Raman Global University"
 
+/** Site owner — shown in the footer. */
+export const OWNER = {
+  name: "Sarthak Kumar",
+  linkedin: "https://www.linkedin.com/in/sarthak-kumar-309033263/",
+  email: "cgufacultysearch@gmail.com",
+}
+
 /** Public address of the site (used for share previews, sitemap, robots). */
 export const SITE_URL = "https://cgufacultysearch.vercel.app"

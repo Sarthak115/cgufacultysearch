@@ -3,7 +3,7 @@
 Find the phone number, email and department of any faculty member, Dean, HOD or office at
 **C. V. Raman Global University (CGU), Bhubaneswar** — and call, WhatsApp or email them in one tap.
 
-**Live:** https://cgufacultysearch.vercel.app · Made with ♥ by **Sarthak**
+**Live:** https://cgufacultysearch.vercel.app · Made by **Sarthak Kumar** · [LinkedIn](https://www.linkedin.com/in/sarthak-kumar-309033263/) · cgufacultysearch@gmail.com
 
 > Independent student project, not an official CGU website. Contacts are collected from public
 > university documents (official timetables and cgu-odisha.ac.in).
