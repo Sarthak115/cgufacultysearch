@@ -25,3 +25,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# timetable scraper cache (downloaded PDFs, extracted records)
+/.cache/
+__pycache__/
+
+# internal review output — lists unpublished entries and master-list emails; keep local (repo is public)
+/data/review-report.md
+
+# local tool settings
+/.claude/
