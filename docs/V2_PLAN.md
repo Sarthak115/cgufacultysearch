@@ -148,11 +148,19 @@ Done when: all test cases pass ✓ and search feels instant on a phone ✓ (362 
 - [x] PWA: `app/manifest.ts` (installable, icons from `scripts/make-icons.py`) + `public/sw.js`
       offline cache — verified: with the server stopped, the site loads, is styled and searches
 
-## Phase 8 — QA & launch
+## Phase 8 — QA & launch  *(in progress)*
 
-- [ ] Test on Android Chrome + iOS Safari; Lighthouse ≥ 90 on mobile
-- [ ] Vercel preview deploy → share with a few students for feedback
-- [ ] Merge to `main`, tag `v2.0.0`, short changelog in README
+- [x] Release checks: data valid, 54 tests, 0 lint warnings, type-checked build
+- [x] Lighthouse mobile: Performance 85–89 (92 with the visitor counter blocked), Accessibility 91,
+      Best Practices 82, SEO 92, layout shift 0. All remaining deductions come from the
+      visitor counter (image without alt, unnamed links, an http tracker it loads) — kept as is.
+      Search index now built when the browser is idle (less work on first load)
+- [x] Fixed: Next 15.2 crashed on *cached* rebuilds with icons in `app/` → icons moved to `public/`
+- [x] Tested in Chrome's mobile emulation (Android) — **real iPhone Safari + Android phone still to do**
+- [x] README with setup, data refresh and changelog
+- [x] Committed on branch `v2` (local)
+- [ ] Push `v2` → Vercel preview deploy → test on real phones / share with a few students
+- [ ] Merge to `main` (= production), tag `v2.0.0`
 
 ## Ongoing — data refresh each semester
 
