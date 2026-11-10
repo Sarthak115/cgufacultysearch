@@ -148,7 +148,7 @@ Done when: all test cases pass ✓ and search feels instant on a phone ✓ (362 
 - [x] PWA: `app/manifest.ts` (installable, icons from `scripts/make-icons.py`) + `public/sw.js`
       offline cache — verified: with the server stopped, the site loads, is styled and searches
 
-## Phase 8 — QA & launch  *(in progress)*
+## Phase 8 — QA & launch  *(done — v2 live on 2026-11-10 via PR #2)*
 
 - [x] Release checks: data valid, 54 tests, 0 lint warnings, type-checked build
 - [x] Lighthouse mobile: Performance 85–89 (92 with the visitor counter blocked), Accessibility 91,
@@ -158,9 +158,11 @@ Done when: all test cases pass ✓ and search feels instant on a phone ✓ (362 
 - [x] Fixed: Next 15.2 crashed on *cached* rebuilds with icons in `app/` → icons moved to `public/`
 - [x] Tested in Chrome's mobile emulation (Android) — **real iPhone Safari + Android phone still to do**
 - [x] README with setup, data refresh and changelog
-- [x] Committed on branch `v2` (local)
-- [ ] Push `v2` → Vercel preview deploy → test on real phones / share with a few students
-- [ ] Merge to `main` (= production), tag `v2.0.0`
+- [x] Committed on branch `v2`, pushed; Vercel preview build passed
+- [x] Merged to `main` (PR #2) → production deploy passed; live site checked (search, counter,
+      offline worker, robots/sitemap/manifest/share image, Google verification file all OK)
+- [ ] Tag `v2.0.0`
+- [ ] Owner: go through `data/review-report.md` (duplicate HODs, shared phones, 79 unconfirmed v1 entries)
 
 ## Ongoing — data refresh each semester
 
