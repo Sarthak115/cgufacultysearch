@@ -5684,6 +5684,31 @@
     ]
   },
   {
+    "id": "nihar-ranjan-panda",
+    "name": "Nihar Ranjan Panda",
+    "title": "",
+    "designation": "",
+    "roles": [],
+    "roleEmails": [],
+    "department": "ee",
+    "phones": [
+      "7008215456"
+    ],
+    "officialEmail": "",
+    "otherEmails": [],
+    "personalEmail": "niharpanda11@gmail.com",
+    "isOffice": false,
+    "sources": [
+      "timetable-2026-27"
+    ],
+    "inMasterList": false,
+    "lastVerified": "2026-11-10",
+    "flags": [
+      "added by hand from the BEE LAB (EE170) timetable row — missed by the scanner"
+    ],
+    "aliases": []
+  },
+  {
     "id": "pragyanshree-ray",
     "name": "Pragyanshree Ray",
     "title": "Dr.",
