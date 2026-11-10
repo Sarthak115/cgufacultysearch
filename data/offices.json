@@ -1,0 +1,228 @@
+[
+  {
+    "id": "academic-office",
+    "name": "Academic Office",
+    "contact": "Dean, Academics",
+    "phones": [
+      "9040272733"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "admission-office",
+    "name": "Admission Office",
+    "contact": "Head, Admission",
+    "phones": [
+      "9040021100",
+      "9040021101",
+      "9040021102",
+      "9040021103",
+      "06746636555"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "finance-office",
+    "name": "Finance Office",
+    "contact": "Chief Finance Officer",
+    "phones": [
+      "7852945184",
+      "9040097244"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "hr-office",
+    "name": "Hr Office",
+    "contact": "Registrar",
+    "phones": [
+      "9040097244"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "international-relation-office",
+    "name": "International Relation Office",
+    "contact": "Dean, International Relations",
+    "phones": [
+      "7852935682",
+      "9040272733"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "office-of-students-welfare",
+    "name": "Office Of Students' Welfare",
+    "contact": "Dean, Students Welfare",
+    "phones": [
+      "9040272733"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "public-relation-office",
+    "name": "Public Relation Office",
+    "contact": "PRO",
+    "phones": [
+      "9040272733"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "student-centre",
+    "name": "Student Centre",
+    "contact": "Dean, Student Welfare",
+    "phones": [
+      "9040272733"
+    ],
+    "emails": [],
+    "source": "website"
+  },
+  {
+    "id": "acoe",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "acoe@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "admission",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "admission@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "centrehead",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "centrehead@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "deana",
+    "name": "Dean, Academics",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "deana@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "dswoffice",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "dswoffice@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "ecell",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "ecell@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "examcell",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "examcell@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "hrdept",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "hrdept@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "ipr.cell",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "ipr.cell@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "iqac",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "iqac@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "iqac_office",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "iqac_office@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "pa.president",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "pa.president@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "registrar",
+    "name": "Registrar",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "registrar@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  },
+  {
+    "id": "research",
+    "name": "",
+    "contact": "",
+    "phones": [],
+    "emails": [
+      "research@cgu-odisha.ac.in"
+    ],
+    "source": "master-list"
+  }
+]

@@ -1,11 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  // TypeScript and ESLint errors now fail the build (they were switched off in v1).
   images: {
     unoptimized: true,
   },
