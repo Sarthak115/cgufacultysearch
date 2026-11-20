@@ -1418,36 +1418,6 @@
     "aliases": []
   },
   {
-    "id": "santosh-kumar-mohapatra",
-    "name": "Santosh Kumar Mohapatra",
-    "title": "Dr.",
-    "designation": "Assistant Professor",
-    "roles": [],
-    "roleEmails": [],
-    "department": "aids",
-    "phones": [
-      "8093355662"
-    ],
-    "officialEmail": "santoshinee.mohapatra@cgu-odisha.ac.in",
-    "otherEmails": [],
-    "personalEmail": "",
-    "isOffice": false,
-    "sources": [
-      "website",
-      "timetable-2025-26",
-      "timetable-2026-27"
-    ],
-    "inMasterList": true,
-    "lastVerified": "2026-11-10",
-    "flags": [
-      "departments disagree: aids×8, ece×1"
-    ],
-    "aliases": [
-      "Santoshinee Mohapatra",
-      "Santoshini Mohapatra"
-    ]
-  },
-  {
     "id": "santosh-kumar-sharma",
     "name": "Santosh Kumar Sharma",
     "title": "Dr.",
@@ -1476,6 +1446,34 @@
       "Santosh Kumar Shar",
       "Santosh Sharma",
       "Ur. Santosn Kumar Sharma"
+    ]
+  },
+  {
+    "id": "santoshinee-mohapatra",
+    "name": "Santoshinee Mohapatra",
+    "title": "Dr.",
+    "designation": "",
+    "roles": [],
+    "roleEmails": [],
+    "department": "aids",
+    "phones": [
+      "8093355662"
+    ],
+    "officialEmail": "santoshinee.mohapatra@cgu-odisha.ac.in",
+    "otherEmails": [],
+    "personalEmail": "",
+    "isOffice": false,
+    "sources": [
+      "timetable-2025-26",
+      "timetable-2026-27"
+    ],
+    "inMasterList": true,
+    "lastVerified": "2026-11-10",
+    "flags": [
+      "fixed by hand 2026-11-20: was wrongly merged into 'Santosh Kumar Mohapatra' (ECE, no contact known)"
+    ],
+    "aliases": [
+      "Santoshini Mohapatra"
     ]
   },
   {

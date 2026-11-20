@@ -82,7 +82,10 @@ def full_words(name):
 def same_word(a, b, loose=False):
     if skeleton(a) == skeleton(b):
         return True
-    if len(a) >= 3 and len(b) >= 3 and (a.startswith(b) or b.startswith(a)):  # truncated "Shar" ~ "Sharma"
+    # Name cut off in a PDF cell: "Shar" ~ "Sharma", "Nanc" ~ "Nanda". Only short stubs or a 1-2 letter
+    # difference — otherwise "Santosh" would swallow "Santoshinee" (a different person, fixed 2026-11-20).
+    short, long_ = (a, b) if len(a) <= len(b) else (b, a)
+    if len(short) >= 3 and long_.startswith(short) and (len(short) <= 4 or len(long_) - len(short) <= 2):
         return True
     return loose and difflib.SequenceMatcher(None, a, b).ratio() >= 0.75  # typo "Pusity" ~ "Prusty"
 
@@ -94,6 +97,8 @@ def compatible(a, b, loose=False):
     """
     ta, tb = tokens(a), tokens(b)
     fa, fb = [w for w, i in ta if not i], [w for w, i in tb if not i]
+    if fa and fb and len(fa) != len(fb) and skeleton("".join(fa)) == skeleton("".join(fb)):
+        return True  # same name written joined / split: "Rudranarayan Mohapatra" ~ "Rudra Narayan Mohapatra"
     if fa and fb:
         short, long_ = (fa, fb) if len(fa) <= len(fb) else (fb, fa)
         if len(short) >= 2 and all(same_word(x, y) for x, y in zip(short, long_)):
